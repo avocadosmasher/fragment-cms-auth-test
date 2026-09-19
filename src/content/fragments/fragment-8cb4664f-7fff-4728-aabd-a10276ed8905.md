@@ -5,6 +5,6 @@ summary: "테스트"
 category: "AI"
 aliases: []
 tags: []
-relations: []
+relations: [{"target":"fragment-1d73fbd8-5ad7-4ea2-b772-4dd6c5cbf537","type":"prerequisite"}]
 ---
 
